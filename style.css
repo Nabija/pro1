@@ -1,0 +1,29 @@
+body{
+	background-image: linear-gradient(#FFF9C4,#B71C1C,#F48FB1,#D1C4E9,#01579B);
+	text-align: center
+}
+#pink{
+	height: 250px;
+	width: 255px;
+}
+#yellow{
+    height: 250px;
+	width: 255px;	
+}
+#purple{
+	height: 250px;
+	width: 255px;
+}
+#red{
+	height: 250px;
+	width: 255px;
+}
+#blue{
+	height: 250px;
+	width: 255px;
+}
+#bouka{
+	height: 450px;
+	width: 450px;
+}
+
